@@ -1,0 +1,10 @@
+Item 4:
+checkedOut/false
+itemType/technology
+itemName/Sewing Machine
+damaged/false
+associatedTeam/Clothing
+id/4
+itemLocation/[4, C]
+recurrenceType/YEARLY
+

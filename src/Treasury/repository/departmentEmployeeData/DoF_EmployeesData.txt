@@ -1,0 +1,26 @@
+DoF_Employee_0001:
+name/John Smith
+position/employee
+department/Department of Finance
+work hours/170
+benefits/120
+overtime/15
+salary/7500.80
+
+DoF_Employee_0002:
+name/Susan Smith
+position/employee
+work hours/145
+benefits/40
+overtime/5
+department/Department of Finance
+salary/6800.45
+
+DoF_Employee_0003:
+name/Josephina Abigail
+position/employee
+department/Department of Marketing
+work hours/160
+benefits/110
+overtime/12
+salary/7100.99

@@ -1,0 +1,99 @@
+Divisions
+1. Access Control Division
+
+    Focuses on monitoring and controlling access to the premises.
+    Positions:
+        Access Control Officer
+        Gatekeeper
+        Security Receptionist
+        Badge Administrator
+
+2. Patrol Division
+
+    Conducts routine patrols to monitor and secure the premises.
+    Positions:
+        Patrol Officer
+        Roving Security Guard
+        Parking Lot Security Specialist
+        Bicycle/Vehicle Patrol Officer
+
+3. Surveillance Division
+
+    Manages surveillance systems to monitor activities across the site.
+    Positions:
+        CCTV Operator
+        Surveillance Analyst
+        Camera Maintenance Technician
+        Remote Monitoring Specialist
+
+4. Response Division
+
+    Handles incidents, emergencies, and quick responses to threats.
+    Positions:
+        Rapid Response Team Leader
+        Incident Response Officer
+        Emergency Evacuation Specialist
+        Crisis Management Coordinator
+
+5. Perimeter Security Division
+
+    Ensures the safety of the facility's outer boundaries.
+    Positions:
+        Perimeter Guard
+        Watchtower Security Officer
+        Entry/Exit Monitor
+        Fence Line Inspector
+
+6. Technical Security Division
+
+    Responsible for managing technical and IT-based security measures.
+    Positions:
+        Security Systems Administrator
+        Access Control Systems Technician
+        Alarm Monitoring Specialist
+        IT Security Liaison (on-site integration with IT)
+
+7. VIP and Executive Protection Division
+
+    Focused on protecting high-profile individuals.
+    Positions:
+        Executive Protection Officer
+        Close Protection Specialist
+        Escort Team Leader
+        Personal Security Guard
+
+8. Training and Compliance Division
+
+    Ensures staff are trained and follow security policies.
+    Positions:
+        Security Trainer
+        Policy Compliance Officer
+        Drill Coordinator
+        Incident Review Specialist
+
+9. Asset and Property Protection Division
+
+    Secures high-value assets and critical areas.
+    Positions:
+        Asset Protection Officer
+        Vault Security Specialist
+        Logistics Security Coordinator
+        Anti-Theft Analyst
+
+10. Emergency Services Division
+
+    Coordinates security with fire safety and first aid during emergencies.
+    Positions:
+        First Aid and Medical Responder
+        Fire Safety Officer
+        Emergency Operations Center (EOC) Coordinator
+        Disaster Response Specialist
+
+11. Risk Assessment and Intelligence Division
+
+    Conducts risk assessments and analyzes security threats.
+    Positions:
+        Risk Assessment Specialist
+        Intelligence Analyst
+        Threat Monitoring Officer
+        Risk Mitigation Coordinator

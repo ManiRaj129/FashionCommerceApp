@@ -1,0 +1,4 @@
+Employee ID: DoF_Employee_0002
+Name: Susan Smith
+
+Salary: 5726.37$

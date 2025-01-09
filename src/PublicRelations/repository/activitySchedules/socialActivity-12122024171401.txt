@@ -1,0 +1,16 @@
+socialActivity-12122024171401:
+activityName/Poker with C suite
+activityType/charity
+objective/improve seating in the center of town
+targetAudience/adults
+description/test
+tasks/test
+department/Department of Public Relations
+location/test
+duration/test
+deadline/12-31-2024
+status/no status
+dateScheduled/12-12-2024-17-16-25
+employeePlanning0/DoPR_Employee_Planning_0033
+employeeReview0/DoPR_Employee_Review_0033
+

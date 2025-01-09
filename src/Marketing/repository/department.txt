@@ -1,0 +1,108 @@
+Team Member 6:
+employeeInfo/ID: teamMember, Name: Social-Media Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/6
+team/Social-Media
+
+Team Member 15:
+employeeInfo/ID: teamMember, Name: Distribution Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/15
+team/Distribution
+
+Distribution Manager:
+employeeInfo/ID: manager, Name: Distribution Manager, Department: Modeling, Position: Manager, Status: Employeed, Salary: 100000
+id/7
+team/Distribution
+teamMembers/[12, 13, 14, 15]
+
+Team Member 5:
+employeeInfo/ID: teamMember, Name: Social-Media Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/5
+team/Social-Media
+
+Team Member 14:
+employeeInfo/ID: teamMember, Name: Distribution Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/14
+team/Distribution
+
+Team Member 4:
+employeeInfo/ID: teamMember, Name: Social-Media Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/4
+team/Social-Media
+
+Team Member 13:
+employeeInfo/ID: teamMember, Name: Distribution Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/13
+team/Distribution
+
+Team Member 3:
+employeeInfo/ID: teamMember, Name: Editing Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/3
+team/Editing
+
+Team Member 12:
+employeeInfo/ID: teamMember, Name: Distribution Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/12
+team/Distribution
+
+Team Member 11:
+employeeInfo/ID: teamMember, Name: Video Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/11
+team/Video
+
+Team Member 9:
+employeeInfo/ID: teamMember, Name: Video Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/9
+team/Video
+
+Team Member 10:
+employeeInfo/ID: teamMember, Name: Video Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/10
+team/Video
+
+Team Member 8:
+employeeInfo/ID: teamMember, Name: Video Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/8
+team/Video
+
+Team Member 7:
+employeeInfo/ID: teamMember, Name: Social-Media Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/7
+team/Social-Media
+
+Editing Manager:
+employeeInfo/ID: manager, Name: Editing Manager, Department: Modeling, Position: Manager, Status: Employeed, Salary: 100000
+id/4
+team/Editing
+teamMembers/[0, 1, 2, 3]
+
+Video Manager:
+employeeInfo/ID: manager, Name: Video Manager, Department: Modeling, Position: Manager, Status: Employeed, Salary: 100000
+id/6
+team/Video
+teamMembers/[8, 9, 10, 11]
+
+Social-Media Manager:
+employeeInfo/ID: manager, Name: Social-Media Manager, Department: Modeling, Position: Manager, Status: Employeed, Salary: 100000
+id/5
+team/Social-Media
+teamMembers/[4, 5, 6, 7]
+
+HOD:
+employeeInfo/ID: hod, Name: Head of Marketing, Department: Marketing, Position: HOD, Status: Employeed, Salary: 100000
+managers/[4, 5, 6, 7]
+
+Team Member 2:
+employeeInfo/ID: teamMember, Name: Editing Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/2
+team/Editing
+
+Team Member 1:
+employeeInfo/ID: teamMember, Name: Editing Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/1
+team/Editing
+
+Team Member 0:
+employeeInfo/ID: teamMember, Name: Editing Member, Department: Modeling, Position: teamMember, Status: Employeed, Salary: 80000
+id/0
+team/Editing
+

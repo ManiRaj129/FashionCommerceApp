@@ -1,0 +1,6 @@
+payrollRate:
+salaryRate/2.03
+benefitsRate/1.34
+overtimeRate/3.42
+taxRate/5.32
+retirementRate/1.73

@@ -1,0 +1,4 @@
+Employee ID: DoM_Employee_0001
+Name: Alice Johnson
+
+Salary: 5835.81$

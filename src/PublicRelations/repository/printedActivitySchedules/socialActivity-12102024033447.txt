@@ -1,0 +1,30 @@
+======================================================================
+ACTIVITY SCHEDULE
+Schedule ID: socialActivity-12102024033447
+Status: Ready (No status | Planning | Reviewing | Revising | Ready | Damage Control)
+Department: Department of Public Relations
+----------------------------------------------------------------------
+Activity Name: Good publicity charity yay
+Activity Type: charity yay
+Objective: pool money for charity yay
+Target Audience: adults yay
+Description: pool money yay
+Tasks: livestream charity yay
+----------------------------------------------------------------------
+Location: USA - Ames - Some road yay
+Duration: 11-22-3333 - 77-88-9999
+Deadline: 01-01-2025
+Date Scheduled: 12-10-2024-03-35-45
+----------------------------------------------------------------------
+Assigned Planning Employees:
+DoPR_Employee_Planning_0010
+DoPR_Employee_Planning_0011
+DoPR_Employee_Planning_0012
+DoPR_Employee_Planning_0013
+DoPR_Employee_Planning_0014
+Assigned Review Employees:
+DoPR_Employee_Review_0011
+DoPR_Employee_Review_0012
+DoPR_Employee_Review_0013
+DoPR_Employee_Review_0014
+======================================================================

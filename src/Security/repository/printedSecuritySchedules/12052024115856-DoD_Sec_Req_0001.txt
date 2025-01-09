@@ -1,0 +1,17 @@
+======================================================================
+SECURITY SCHEDULE
+Schedule ID: 12052024115856-DoD_Sec_Req_0001 is associated with Request ID: DoD_Sec_Req_0001
+Priority Level: 3 (3 = Emergency, 2 = High, 1 = Medium, 0 = Low)
+Department: Department of Design
+----------------------------------------------------------------------
+Location: Tokyo - Designer Showcase Event
+Description: protect high-profile design launch event
+Duration :12-10-2024 7:00 p.m. - 11:00 p.m.
+Tasks: secure venue and monitor high-profile guests
+Date Scheduled: 12-05-2024-11-58-56
+----------------------------------------------------------------------
+Assigned Personnel by IDs:
+DoS_Employee_0047
+DoS_Employee_0048
+DoS_Employee_0049
+======================================================================

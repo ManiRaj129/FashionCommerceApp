@@ -1,0 +1,10 @@
+DoD_Sec_Req_0001:
+priorityLevel/3
+department/Department of Design
+location/Tokyo - Designer Showcase Event
+description/protect high-profile design launch event
+duration/12-10-2024 7:00 p.m. - 11:00 p.m.
+tasks/secure venue and monitor high-profile guests
+specialReqs/assign a team lead experienced with VIP events
+dateIssued/11-19-2024
+resolved/false

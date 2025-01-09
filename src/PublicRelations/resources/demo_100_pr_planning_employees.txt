@@ -1,0 +1,990 @@
+DoPR_Employee_Planning_0001:
+name/Amanda Lewis
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0002:
+name/Andrew Young
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0003:
+name/Andrew Hill
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0004:
+name/Michael Scott
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0005:
+name/Amanda King
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0006:
+name/Sarah Allen
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0007:
+name/Amanda Lewis
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0008:
+name/Emily Adams
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0009:
+name/Jessica Hill
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0010:
+name/Emily Scott
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0011:
+name/Michael Walker
+division/Social Media Management
+position/Social Media Strategist
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0012:
+name/Andrew Scott
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0013:
+name/David Adams
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0014:
+name/Andrew Adams
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0015:
+name/Jessica Lewis
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0016:
+name/Michael King
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0017:
+name/Matthew Clark
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0018:
+name/Matthew Adams
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0019:
+name/Amanda Allen
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0020:
+name/Andrew Lewis
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0021:
+name/Michael Scott
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0022:
+name/Matthew Young
+division/Social Media Management
+position/Content Planner
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0023:
+name/Jessica Clark
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0024:
+name/Jessica Clark
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0025:
+name/Daniel Young
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0026:
+name/Andrew King
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0027:
+name/Jessica Allen
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0028:
+name/David Lewis
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0029:
+name/Matthew Lewis
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0030:
+name/Jessica Walker
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0031:
+name/Michael Hill
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0032:
+name/Andrew Hill
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0033:
+name/Daniel Hill
+division/Social Media Management
+position/Campaign Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0034:
+name/Andrew Walker
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0035:
+name/Matthew King
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0036:
+name/David Green
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0037:
+name/Amanda Young
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0038:
+name/Amanda Scott
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0039:
+name/Daniel Adams
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0040:
+name/Michael Scott
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0041:
+name/Daniel Scott
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0042:
+name/Daniel Green
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0043:
+name/Daniel Allen
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0044:
+name/David Walker
+division/Publicity Event Planning
+position/Event Logistics Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0045:
+name/Sarah Allen
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0046:
+name/Daniel Adams
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0047:
+name/Emily Hill
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0048:
+name/Matthew Scott
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0049:
+name/Michael Clark
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0050:
+name/Andrew Hill
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0051:
+name/Matthew Young
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0052:
+name/David Lewis
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0053:
+name/Michael Walker
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0054:
+name/Michael Allen
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0055:
+name/Amanda King
+division/Publicity Event Planning
+position/Event Scheduler
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0056:
+name/Ashley Adams
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0057:
+name/Andrew Walker
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0058:
+name/Jessica Young
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0059:
+name/Amanda King
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0060:
+name/Andrew Scott
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0061:
+name/David Young
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0062:
+name/Amanda Young
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0063:
+name/Jessica Adams
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0064:
+name/Emily Hill
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0065:
+name/Emily Young
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0066:
+name/Andrew Green
+division/Publicity Event Planning
+position/Vendor Liaison
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0067:
+name/Daniel Hill
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0068:
+name/Ashley Allen
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0069:
+name/Amanda Allen
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0070:
+name/David Walker
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0071:
+name/David Walker
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0072:
+name/Daniel Adams
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0073:
+name/Daniel Young
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0074:
+name/Sarah Hill
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0075:
+name/Michael Green
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0076:
+name/Daniel Scott
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0077:
+name/David Hill
+division/Brand Development
+position/Brand Strategist
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0078:
+name/Sarah Green
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0079:
+name/Amanda Scott
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0080:
+name/Amanda Scott
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0081:
+name/Andrew Adams
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0082:
+name/Amanda Scott
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0083:
+name/Matthew Young
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0084:
+name/David King
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0085:
+name/Amanda Scott
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0086:
+name/Jessica Green
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0087:
+name/Andrew Allen
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0088:
+name/Matthew Hill
+division/Brand Development
+position/Creative Planner
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0089:
+name/Andrew King
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0090:
+name/David Young
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/2
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0091:
+name/Michael Green
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.1
+yearsOfExperience/3
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0092:
+name/Michael Green
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/4
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0093:
+name/Matthew Allen
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.2
+yearsOfExperience/5
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0094:
+name/Sarah Hill
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/6
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0095:
+name/Amanda Walker
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.3
+yearsOfExperience/7
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0096:
+name/David Allen
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/8
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0097:
+name/Michael Hill
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.4
+yearsOfExperience/9
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0098:
+name/Amanda Scott
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.5
+yearsOfExperience/10
+previousAssignment/free
+currentAssignment/free
+
+DoPR_Employee_Planning_0099:
+name/Ashley Clark
+division/Brand Development
+position/Engagement Coordinator
+department/Department of Public Relations
+rating/4.0
+yearsOfExperience/1
+previousAssignment/free
+currentAssignment/free
+

@@ -1,0 +1,32 @@
+Event 2:
+celebrity/John Cena
+collab/Nike
+id/2
+completionStatus/false
+type/Photoshoot
+teamMembers/[]
+
+Event 3:
+celebrity/
+collab/
+id/3
+completionStatus/false
+type/Fashion Show
+teamMembers/[]
+
+Event 0:
+celebrity/Beyonce
+collab/Nike
+id/0
+completionStatus/false
+type/Photoshoot
+teamMembers/[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+
+Event 1:
+celebrity/Brad Pitt
+collab/Versace
+id/1
+completionStatus/false
+type/Photoshoot
+teamMembers/[]
+

@@ -1,0 +1,70 @@
+DoMkt_Content_Req_0001:
+theme/Community Outreach Program
+contentCategory/Video
+platform/YouTube
+duration/January 5 2025 + 7 days
+deadline/01-04-2025
+description/Create a video showcasing our company’s participation in a local community outreach event, highlighting employee volunteers and community impact.
+tasks/Filming Editing Voiceover Interviewing participants
+department/Department of Marketing
+priority/0
+specialReqs/Include testimonials from community members and footage of the event.
+dateIssued/12-08-2024-12-00-00
+resolved/false
+
+DoMkt_Content_Req_0002:
+theme/Employee Spotlight Series
+contentCategory/Social Media Post
+platform/LinkedIn
+duration/January 10 2025 + 5 days
+deadline/01-09-2025
+description/Develop a series of social media posts celebrating outstanding employees and their contributions to the company and the community.
+tasks/Photo collection Content drafting Scheduling
+department/Department of Marketing
+priority/0
+specialReqs/Highlight diversity and inclusion within the workforce.
+dateIssued/12-08-2024-12-15-30
+resolved/false
+
+DoMkt_Content_Req_0003:
+theme/Environmental Sustainability Efforts
+contentCategory/Infographic
+platform/Company Website
+duration/December 30 2024 + 10 days
+deadline/12-29-2024
+description/Design an infographic showcasing the company’s sustainability initiatives and achievements, such as reduced carbon footprint or recycling programs.
+tasks/Research data Design visuals Add company branding
+department/Department of Marketing
+priority/0
+specialReqs/Use simple, clear visuals to make the data accessible to a broad audience.
+dateIssued/12-08-2024-12-30-15
+resolved/false
+
+DoMkt_Content_Req_0004:
+theme/Charity Partnership Campaign
+contentCategory/Press Release
+platform/News Outlets
+duration/January 15 2025 + 3 days
+deadline/01-14-2025
+description/Draft and distribute a press release announcing the company’s partnership with a local charity organization.
+tasks/Content drafting Proofreading Distribution
+department/Department of Marketing
+priority/1
+specialReqs/Include quotes from executives and charity representatives.
+dateIssued/12-08-2024-12-45-50
+resolved/false
+
+DoMkt_Content_Req_0005:
+theme/Annual Company Culture Highlights
+contentCategory/Photo Gallery
+platform/Instagram
+duration/December 25 2024 + 7 days
+deadline/12-24-2024
+description/Curate a photo gallery highlighting key moments from the company’s events and initiatives throughout the year to promote a positive public image.
+tasks/Photo selection Caption writing Post scheduling
+department/Department of Marketing
+priority/0
+specialReqs/Focus on photos that depict teamwork and fun at the workplace.
+dateIssued/12-08-2024-13-00-20
+resolved/false
+

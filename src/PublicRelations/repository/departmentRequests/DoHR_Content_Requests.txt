@@ -1,0 +1,41 @@
+DoHR_Content_Req_0001:
+theme/Celebrating Employee Diversity
+contentCategory/Social Media Post Series
+platform/Twitter, Instagram, LinkedIn
+duration/December 20 2024 + 14 days
+deadline/12-19-2024
+description/Create a series of posts highlighting employees' cultural backgrounds and contributions as part of the company’s commitment to diversity and inclusion.
+tasks/Collect stories and photos from employees; Design engaging posts with captions; Schedule posts over two weeks.
+department/Department of Human Resources
+priority/1
+specialReqs/Ensure consent for photos; Feature employees from diverse departments.
+dateIssued/12-08-2024-14-50-12
+resolved/false
+
+DoHR_Content_Req_0002:
+theme/Employee Well-Being Initiatives
+contentCategory/Blog Post and Infographic
+platform/Company Blog, LinkedIn
+duration/January 5 2025 + 10 days
+deadline/01-04-2025
+description/Write a blog post and create an accompanying infographic detailing the company’s new well-being programs, including mental health resources and fitness incentives.
+tasks/Research initiatives; Write a compelling blog post; Design an infographic summarizing key points.
+department/Department of Human Resources
+priority/0
+specialReqs/Feature quotes from employees who’ve benefited from these programs.
+dateIssued/12-08-2024-15-00-45
+resolved/false
+
+DoHR_Content_Req_0003:
+theme/Employee Success Stories
+contentCategory/Employee Spotlight Video
+platform/YouTube, LinkedIn
+duration/February 5 2025 + 7 days
+deadline/02-04-2025
+description/Produce a video highlighting the career journey of a long-term employee, showcasing their growth, achievements, and contributions to the company. This is part of our initiative to promote internal talent and career development opportunities.
+tasks/Select an employee to feature; Interview them about their career progression; Capture footage and create a video.
+department/Department of Human Resources
+priority/0
+specialReqs/Ensure the video is professionally edited and aligns with company branding.
+dateIssued/12-08-2024-15-20-25
+resolved/false
