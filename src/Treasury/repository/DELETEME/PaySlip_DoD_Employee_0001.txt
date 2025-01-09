@@ -1,4 +1,0 @@
-Employee ID: DoD_Employee_0001
-Name: John Doe
-
-Salary: 5816.99$

@@ -1,4 +1,0 @@
-Employee ID: DoD_Employee_0002
-Name: Jane Doe
-
-Salary: 5695.1$
