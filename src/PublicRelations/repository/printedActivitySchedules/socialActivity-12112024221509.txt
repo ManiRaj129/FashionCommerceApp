@@ -1,0 +1,23 @@
+======================================================================
+ACTIVITY SCHEDULE
+Schedule ID: socialActivity-12112024221509
+Status: Damage Control (No status | Planning | Reviewing | Revising | Ready | Damage Control)
+Department: Department of Public Relations
+----------------------------------------------------------------------
+Activity Name: something
+Activity Type: sometype
+Objective: something
+Target Audience: someone
+Description: something
+Tasks: something
+----------------------------------------------------------------------
+Location: somewhere
+Duration: sometime
+Deadline: 12-31-2024
+Date Scheduled: 12-11-2024-22-17-49
+----------------------------------------------------------------------
+Assigned Planning Employees:
+DoPR_Employee_Planning_0038
+Assigned Review Employees:
+DoPR_Employee_Review_0018
+======================================================================

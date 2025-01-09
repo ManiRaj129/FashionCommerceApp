@@ -1,0 +1,23 @@
+======================================================================
+CONTENT SCHEDULE
+Schedule ID: 12112024220909-DoMkt_Content_Req_0003 is associated with Request ID: DoMkt_Content_Req_0003
+----------------------------------------------------------------------
+Status: Planning
+Priority: 0 (1 = Urgent, 0 = Normal)
+Department: Department of Marketing
+----------------------------------------------------------------------
+Content Category: Infographic
+Theme: Environmental Sustainability Efforts
+Platform: Company Website
+Description: Design an infographic showcasing the company’s sustainability initiatives and achievements, such as reduced carbon footprint or recycling programs.
+Tasks: Research data Design visuals Add company branding
+----------------------------------------------------------------------
+Duration: December 30 2024 + 10 days
+Deadline: 12-29-2024
+Date Scheduled: 12-11-2024-22-09-09
+----------------------------------------------------------------------
+Assigned Planning Employees:
+DoPR_Employee_Planning_0029
+Assigned Review Employees:
+DoPR_Employee_Review_0014
+======================================================================

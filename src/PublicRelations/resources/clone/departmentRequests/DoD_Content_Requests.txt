@@ -1,0 +1,41 @@
+DoD_Content_Req_0001:
+theme/Innovation in Sustainability
+contentCategory/Infographic Design
+platform/LinkedIn, Instagram
+duration/December 10 2024 + 7 days
+deadline/12-09-2024
+description/Create an infographic showcasing our use of sustainable materials in recent projects. Highlight our achievements in reducing environmental impact.
+tasks/Collaborate with the sustainability team for accurate data; Design a modern infographic; Adapt visuals for social media formats.
+department/Department of Design
+priority/1
+specialReqs/Use company branding guidelines; Include client testimonials.
+dateIssued/12-08-2024-14-35-22
+resolved/false
+
+DoD_Content_Req_0002:
+theme/Creative Process Spotlight
+contentCategory/Video Campaign
+platform/YouTube, Facebook
+duration/January 15 2025 + 10 days
+deadline/01-14-2025
+description/Develop a behind-the-scenes video showcasing our creative process for designing a new product. Include interviews with designers and initial sketches.
+tasks/Script the video; Coordinate interviews with designers; Edit footage into a cohesive narrative.
+department/Department of Design
+priority/0
+specialReqs/Ensure high-quality production; Include subtitles for accessibility.
+dateIssued/12-08-2024-14-40-56
+resolved/false
+
+DoD_Content_Req_0003:
+theme/Design Excellence in Awards
+contentCategory/Case Study Article
+platform/Company Website, LinkedIn
+duration/February 10 2025 + 15 days
+deadline/02-09-2025
+description/Write a case study about the design team’s recent award-winning project, highlighting the creative process, challenges, and the impact it has had on the company’s reputation.
+tasks/Interview the design team; Gather project details; Write a compelling narrative; Coordinate with marketing for publication.
+department/Department of Design
+priority/1
+specialReqs/Include high-quality project images; Emphasize client feedback and industry recognition.
+dateIssued/12-08-2024-15-10-35
+resolved/false

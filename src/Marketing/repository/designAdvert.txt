@@ -1,0 +1,21 @@
+Advert 0:
+notes/Make it pretty :)
+design/Ball Gown
+associatedTeams/[Social-Media, Editing]
+id/0
+advertType/Social-Media
+
+Advert 1:
+notes/Knee length
+design/Ball Gown
+associatedTeams/[Social-Media, Editing]
+id/1
+advertType/Social-Media
+
+Advert 2:
+notes/Spaghetti straps
+design/Ball Gown
+associatedTeams/[Editing, Video]
+id/2
+advertType/Commercial
+

@@ -1,0 +1,33 @@
+======================================================================
+CONTENT SCHEDULE
+Schedule ID: 12092024225042-DoD_Content_Req_0001 is associated with Request ID: DoD_Content_Req_0001
+----------------------------------------------------------------------
+Status: Revising
+Priority: 1 (1 = Urgent, 0 = Normal)
+Department: Department of Design
+----------------------------------------------------------------------
+Content Category: Infographic Design
+Theme: Innovation in Sustainability
+Platform: LinkedIn, Instagram
+Description: Create an infographic showcasing our use of sustainable materials in recent projects. Highlight our achievements in reducing environmental impact.
+Tasks: Collaborate with the sustainability team for accurate data; Design a modern infographic; Adapt visuals for social media formats.
+----------------------------------------------------------------------
+Duration: December 10 2024 + 7 days
+Deadline: 12-09-2024
+Date Scheduled: 12-09-2024-22-50-42
+----------------------------------------------------------------------
+Assigned Planning Employees:
+DoPR_Employee_Planning_0001
+DoPR_Employee_Planning_0002
+DoPR_Employee_Planning_0003
+DoPR_Employee_Planning_0004
+DoPR_Employee_Planning_0005
+DoPR_Employee_Planning_0006
+Assigned Review Employees:
+DoPR_Employee_Review_0001
+DoPR_Employee_Review_0002
+DoPR_Employee_Review_0003
+DoPR_Employee_Review_0004
+DoPR_Employee_Review_0005
+DoPR_Employee_Review_0006
+======================================================================

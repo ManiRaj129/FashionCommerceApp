@@ -1,0 +1,26 @@
+DoM_Employee_0001:
+name/Alice Johnson
+position/employee
+department/Department of Marketing
+work hours/160
+benefits/110
+overtime/12
+salary/7100.99
+
+DoM_Employee_0002:
+name/Bob Johnson
+position/employee
+work hours/158
+benefits/30
+overtime/8
+department/Department of Marketing
+salary/6900.20
+
+DoM_Employee_0003:
+name/Jeremy Mia
+position/employee
+work hours/124
+benefits/36
+overtime/5
+department/Department of Marketing
+salary/8200.20

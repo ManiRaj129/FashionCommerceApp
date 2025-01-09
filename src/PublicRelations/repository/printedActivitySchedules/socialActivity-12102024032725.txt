@@ -1,0 +1,27 @@
+======================================================================
+ACTIVITY SCHEDULE
+Schedule ID: socialActivity-12102024032725
+Status: No status (No status | Planning | Reviewing | Revising | Ready | Damage Control)
+Department: Department of Public Relations
+----------------------------------------------------------------------
+Activity Name: Good publicity charity
+Activity Type: charity
+Objective: pool money for charity
+Target Audience: adults
+Description: host charity stream
+Tasks: pool charity money
+----------------------------------------------------------------------
+Location: USA - Ames - Some road
+Duration: 11-22-3333 - 44-55-6666
+Deadline: 12-31-2024
+Date Scheduled: 12-10-2024-03-29-16
+----------------------------------------------------------------------
+Assigned Planning Employees:
+DoPR_Employee_Planning_0010
+DoPR_Employee_Planning_0011
+DoPR_Employee_Planning_0012
+Assigned Review Employees:
+DoPR_Employee_Review_0010
+DoPR_Employee_Review_0011
+DoPR_Employee_Review_0012
+======================================================================

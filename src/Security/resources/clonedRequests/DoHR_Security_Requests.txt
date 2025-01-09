@@ -1,0 +1,10 @@
+DoHR_Sec_Req_0001:
+priorityLevel/1
+department/Department of Human Resources
+location/Seattle - Corporate Office
+description/provide security during annual employee review
+duration/12-12-2024 9:00 a.m. - 12:00 p.m.
+tasks/ensure privacy and access control during sensitive discussions
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false

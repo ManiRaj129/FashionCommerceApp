@@ -1,0 +1,21 @@
+DoI_Sec_Req_0001:
+priorityLevel/3
+department/Department of Inventory
+location/Dubai - Inventory Expo 2024
+description/ensure security of warehouse exhibits and goods
+duration/12-01-2024 9:00 a.m. - 5:00 p.m.
+tasks/protect goods on display and monitor for theft
+specialReqs/have personnel experienced with surveillance systems
+dateIssued/11-19-2024
+resolved/false
+
+DoI_Sec_Req_0002:
+priorityLevel/0
+department/Department of Inventory
+location/Sydney - Warehouse Inspection
+description/assist in routine warehouse inventory inspection
+duration/12-15-2024 9:00 a.m. - 2:00 p.m.
+tasks/monitor loading and unloading zones
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false

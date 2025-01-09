@@ -1,0 +1,8 @@
+1:
+name/Sam Gumm
+employeeID/1
+department/Engineering
+position/Sales
+status/ONBOARDING
+salary/150
+
