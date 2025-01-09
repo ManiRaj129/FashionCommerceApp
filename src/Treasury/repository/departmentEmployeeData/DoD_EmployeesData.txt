@@ -1,0 +1,26 @@
+DoD_Employee_0001:
+name/John Doe
+position/employee
+department/Department of Design
+work hours/160
+benefits/100
+overtime/10
+salary/7100.66
+
+DoD_Employee_0002:
+name/Jane Doe
+position/employee
+work hours/150
+benefits/20
+overtime/3
+department/Department of Design
+salary/6500.12
+
+DoD_Employee_0003:
+name/Jeremy Doe
+position/manager
+work hours/155
+benefits/60
+overtime/0
+department/Department of Design
+salary/4533.12

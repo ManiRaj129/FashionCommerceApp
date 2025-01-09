@@ -1,0 +1,10 @@
+DoMfg_Sec_Req_0001:
+priorityLevel/1
+department/Department of Manufacturing
+location/New York - Smart Factory Facility
+description/provide perimeter security during machinery upgrades
+duration/12-02-2024 8:00 a.m. - 6:00 p.m.
+tasks/secure facility and control access points
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false

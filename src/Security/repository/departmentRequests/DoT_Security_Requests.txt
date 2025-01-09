@@ -1,0 +1,22 @@
+DoT_Sec_Req_0001:
+priorityLevel/0
+department/Department of Treasury
+location/London - Treasury Branch Office
+description/supervise routine cash transportation
+duration/12-07-2024 11:00 a.m. - 1:00 p.m.
+tasks/escort cash transfer vehicle
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoT_Sec_Req_0002:
+priorityLevel/3
+department/Department of Treasury
+location/Los Angeles - Emergency Funds Transfer
+description/provide top-level security during emergency funds transfer
+duration/12-20-2024 8:00 a.m. - 4:00 p.m.
+tasks/escort personnel and assets to secure destination
+specialReqs/assign highly experienced personnel
+dateIssued/11-19-2024
+resolved/false
+

@@ -1,0 +1,4 @@
+Employee ID: DoF_Employee_0003
+Name: Josephina Abigail
+
+Salary: 5835.81$

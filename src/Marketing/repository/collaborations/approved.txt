@@ -1,0 +1,9 @@
+Brand Member 1:
+name/Nike
+id/1
+
+Celebrity Member 0:
+contractDetail/ID: Celebrity, Name: Celine Dione, Department: Modeling, Position: Temp Worker, Status: Contract, Salary: 1000000
+name/Celine Dione
+id/0
+

@@ -1,0 +1,13 @@
+SECURITY SCHEDULE
+Schedule ID: 11212024015647-DoT_Sec_Req_0001 is associated with Request ID: DoT_Sec_Req_0001
+Priority Level: 0 (3 = Emergency, 2 = High, 1 = Medium, 0 = Low)
+
+Department: Department of Treasury
+Location: London - Treasury Branch Office
+Description: supervise routine cash transportation
+Duration :12-07-2024 11:00 a.m. - 1:00 p.m.
+Tasks: escort cash transfer vehicle
+Date Scheduled: 11-21-2024-01-56-47
+
+Assigned Personnel by IDs:
+DoS_Employee_0060

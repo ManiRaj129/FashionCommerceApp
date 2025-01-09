@@ -1,0 +1,10 @@
+Item 2:
+checkedOut/false
+itemType/clothing
+itemName/Ball Gown
+damaged/false
+associatedTeam/Clothing
+id/2
+itemLocation/[2, C]
+recurrenceType/NONE
+

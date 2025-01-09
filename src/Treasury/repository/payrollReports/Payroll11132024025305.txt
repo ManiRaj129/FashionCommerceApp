@@ -1,0 +1,23 @@
+Department of Marketing
+Total Base Pay: 18270.0$
+Total Benefits Pay: 335.0$
+Total Overtime Pay: 109.44$
+Total Gross Pay: 18714.44$
+Total Net Pay: 17395.07$
+
+Department of Finance
+Total Base Pay: 12180.0$
+Total Benefits Pay: 214.4$
+Total Overtime Pay: 68.4$
+Total Gross Pay: 12462.8$
+Total Net Pay: 11584.17$
+
+Department of Design
+Total Base Pay: 24360.0$
+Total Benefits Pay: 241.20000000000002$
+Total Overtime Pay: 44.46$
+Total Gross Pay: 24645.66$
+Total Net Pay: 22908.14$
+
+========================================================================
+Total Salaries Paid: 51887.38$

@@ -1,0 +1,21 @@
+DoF_Sec_Req_0001:
+priorityLevel/2
+department/Department of Fashion
+location/Singapore - Look Pretty Fashion show
+description/need bodyguards to look over upcoming fashion show
+duration/11-23-2024 10:00 a.m. - 3:00 p.m.
+tasks/guard fashion show venue and prevent any disruptions
+specialReqs/have one cybersecurity personnel as well
+dateIssued/11-19-2024
+resolved/false
+
+DoF_Sec_Req_0002:
+priorityLevel/2
+department/Department of Fashion
+location/Milan - Exclusive Designer Gala
+description/ensure safety of guests and staff during gala event
+duration/12-14-2024 6:00 p.m. - 12:00 a.m.
+tasks/control crowd and prevent unauthorized entry
+specialReqs/have personnel with crowd management experience
+dateIssued/11-19-2024
+resolved/false

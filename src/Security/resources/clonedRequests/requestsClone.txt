@@ -1,0 +1,120 @@
+DoF_Sec_Req_0001:
+priorityLevel/2
+department/Department of Fashion
+location/Singapore - Look Pretty Fashion show
+description/need bodyguards to look over upcoming fashion show
+duration/11-23-2024 10:00 a.m. - 3:00 p.m.
+tasks/guard fashion show venue and prevent any disruptions
+specialReqs/have one cybersecurity personnel as well
+dateIssued/11-19-2024
+resolved/false
+
+DoI_Sec_Req_0002:
+priorityLevel/3
+department/Department of Inventory
+location/Dubai - Inventory Expo 2024
+description/ensure security of warehouse exhibits and goods
+duration/12-01-2024 9:00 a.m. - 5:00 p.m.
+tasks/protect goods on display and monitor for theft
+specialReqs/have personnel experienced with surveillance systems
+dateIssued/11-19-2024
+resolved/false
+
+DoMfg_Sec_Req_0003:
+priorityLevel/1
+department/Department of Manufacturing
+location/New York - Smart Factory Facility
+description/provide perimeter security during machinery upgrades
+duration/12-02-2024 8:00 a.m. - 6:00 p.m.
+tasks/secure facility and control access points
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoMod_Sec_Req_0004:
+priorityLevel/2
+department/Department of Modelling
+location/Paris - Winter Fashion Photoshoot
+description/escort models and secure photoshoot locations
+duration/12-05-2024 10:00 a.m. - 4:00 p.m.
+tasks/prevent disruptions and ensure model safety
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoT_Sec_Req_0005:
+priorityLevel/0
+department/Department of Treasury
+location/London - Treasury Branch Office
+description/supervise routine cash transportation
+duration/12-07-2024 11:00 a.m. - 1:00 p.m.
+tasks/escort cash transfer vehicle
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoD_Sec_Req_0006:
+priorityLevel/3
+department/Department of Design
+location/Tokyo - Designer Showcase Event
+description/protect high-profile design launch event
+duration/12-10-2024 7:00 p.m. - 11:00 p.m.
+tasks/secure venue and monitor high-profile guests
+specialReqs/assign a team lead experienced with VIP events
+dateIssued/11-19-2024
+resolved/false
+
+DoHR_Sec_Req_0007:
+priorityLevel/1
+department/Department of Human Resources
+location/Seattle - Corporate Office
+description/provide security during annual employee review
+duration/12-12-2024 9:00 a.m. - 12:00 p.m.
+tasks/ensure privacy and access control during sensitive discussions
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoF_Sec_Req_0008:
+priorityLevel/2
+department/Department of Fashion
+location/Milan - Exclusive Designer Gala
+description/ensure safety of guests and staff during gala event
+duration/12-14-2024 6:00 p.m. - 12:00 a.m.
+tasks/control crowd and prevent unauthorized entry
+specialReqs/have personnel with crowd management experience
+dateIssued/11-19-2024
+resolved/false
+
+DoI_Sec_Req_0009:
+priorityLevel/0
+department/Department of Inventory
+location/Sydney - Warehouse Inspection
+description/assist in routine warehouse inventory inspection
+duration/12-15-2024 9:00 a.m. - 2:00 p.m.
+tasks/monitor loading and unloading zones
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoMod_Sec_Req_0010:
+priorityLevel/1
+department/Department of Modelling
+location/Hong Kong - Brand Campaign Photoshoot
+description/protect models and staff during outdoor campaign shoot
+duration/12-18-2024 9:00 a.m. - 5:00 p.m.
+tasks/control access to public locations and prevent disruptions
+specialReqs/none
+dateIssued/11-19-2024
+resolved/false
+
+DoT_Sec_Req_0011:
+priorityLevel/3
+department/Department of Treasury
+location/Los Angeles - Emergency Funds Transfer
+description/provide top-level security during emergency funds transfer
+duration/12-20-2024 8:00 a.m. - 4:00 p.m.
+tasks/escort personnel and assets to secure destination
+specialReqs/assign highly experienced personnel
+dateIssued/11-19-2024
+resolved/false
