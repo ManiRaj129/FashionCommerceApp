@@ -1,9 +1,0 @@
-brand1:
-country/Switzerland
-specialty/Computer Peripherals
-name/Logitech
-
-brand2:
-country/United States
-specialty/Consumer Electronics
-name/Apple

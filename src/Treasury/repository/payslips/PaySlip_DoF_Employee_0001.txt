@@ -1,4 +1,0 @@
-Employee ID: DoF_Employee_0001
-Name: John Smith
-
-Salary: 5857.8$

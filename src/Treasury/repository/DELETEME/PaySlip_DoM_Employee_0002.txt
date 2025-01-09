@@ -1,4 +1,0 @@
-Employee ID: DoM_Employee_0002
-Name: Bob Johnson
-
-Salary: 5723.45$
